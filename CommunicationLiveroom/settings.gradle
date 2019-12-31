@@ -1,2 +1,2 @@
-include ':app', ':communicationliveroomv2'
+include ':app', ':zegoliveroom'
 rootProject.name='CommunicationLiveroom'

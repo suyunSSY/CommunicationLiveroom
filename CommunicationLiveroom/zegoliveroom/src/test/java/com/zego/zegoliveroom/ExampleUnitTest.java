@@ -1,4 +1,4 @@
-package com.zego.communicationliveroomv2;
+package com.zego.zegoliveroom;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.zego.communicationliveroomv2;
+package com.zego.zegoliveroom;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.zego.communicationliveroomv2.test", appContext.getPackageName());
+        assertEquals("com.zego.zegoliveroom.test", appContext.getPackageName());
     }
 }
